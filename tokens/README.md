@@ -34,7 +34,7 @@ Los tokens están estructurados en diferentes niveles:
 
 ---
 
-## 🎨 Theming y modos
+### 🎨 Theming y modos
 
 El sistema está preparado para soportar:
 
@@ -49,7 +49,7 @@ Esto se consigue mediante:
 
 ---
 
-## 🔄 Relación con Figma
+### 🔄 Relación con Figma
 
 Los tokens están pensados para integrarse con:
 
@@ -59,7 +59,7 @@ Los tokens están pensados para integrarse con:
 
 ---
 
-## ⚙️ Uso de los tokens
+### ⚙️ Uso de los tokens
 
 Los tokens deben consumirse como:
 
