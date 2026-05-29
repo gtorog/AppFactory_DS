@@ -1,0 +1,1146 @@
+{
+  "blue_light": {
+    "radius": {
+      "none": {
+        "value": 0,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "sm": {
+        "value": 4,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "md": {
+        "value": 8,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "lg": {
+        "value": 12,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xl": {
+        "value": 16,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xxl": {
+        "value": 20,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "full": {
+        "value": 123,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      }
+    },
+    "border": {
+      "none": {
+        "value": 0,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "sm": {
+        "value": 1,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "md": {
+        "value": 2,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "lg": {
+        "value": 3,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xl": {
+        "value": 4,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xxl": {
+        "value": 6,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      }
+    },
+    "spacing": {
+      "none": {
+        "value": 0,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "2xs": {
+        "value": 4,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "1xs": {
+        "value": 8,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xs": {
+        "value": 12,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "sm": {
+        "value": 16,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "md": {
+        "value": 24,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "lg": {
+        "value": 32,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xl": {
+        "value": 40,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "1xl": {
+        "value": 48,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "2xl": {
+        "value": 56,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "3xl": {
+        "value": 64,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      }
+    },
+    "size": {
+      "xxs": {
+        "value": 12,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xs": {
+        "value": 16,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "md": {
+        "value": 20,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "lg": {
+        "value": 24,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xl": {
+        "value": 32,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xxl": {
+        "value": 40,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      }
+    },
+    "fontSize": {
+      "3xl": {
+        "value": 40,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "2xl": {
+        "value": 34,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "1xl": {
+        "value": 26,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xl": {
+        "value": 24,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "lg": {
+        "value": 22,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "md": {
+        "value": 20,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "sm": {
+        "value": 18,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xs": {
+        "value": 16,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "1xs": {
+        "value": 14,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "2xs": {
+        "value": 12,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      }
+    },
+    "lineHeight": {
+      "5xl": {
+        "value": 44,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "4xl": {
+        "value": 40,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "3xl": {
+        "value": 38,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "2xl": {
+        "value": 28,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "1xl": {
+        "value": 26,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xl": {
+        "value": 24,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "lg": {
+        "value": 22,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "md": {
+        "value": 20,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "sm": {
+        "value": 18,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xs": {
+        "value": 16,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "1xs": {
+        "value": 14,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "2xs": {
+        "value": 12,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Merriweather",
+        "type": "fontFamily",
+        "prefix": "apf_tokens_global"
+      },
+      "secondary": {
+        "value": "Nunito Sans",
+        "type": "fontFamily",
+        "prefix": "apf_tokens_global"
+      }
+    }
+  },
+  "blue_dark": {
+    "radius": {
+      "none": {
+        "value": 0,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "sm": {
+        "value": 4,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "md": {
+        "value": 8,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "lg": {
+        "value": 12,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xl": {
+        "value": 16,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xxl": {
+        "value": 20,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "full": {
+        "value": 123,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      }
+    },
+    "border": {
+      "none": {
+        "value": 0,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "sm": {
+        "value": 1,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "md": {
+        "value": 2,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "lg": {
+        "value": 3,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xl": {
+        "value": 4,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xxl": {
+        "value": 6,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      }
+    },
+    "spacing": {
+      "none": {
+        "value": 0,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "2xs": {
+        "value": 4,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "1xs": {
+        "value": 8,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xs": {
+        "value": 12,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "sm": {
+        "value": 16,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "md": {
+        "value": 24,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "lg": {
+        "value": 32,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xl": {
+        "value": 40,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "1xl": {
+        "value": 48,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "2xl": {
+        "value": 56,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "3xl": {
+        "value": 64,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      }
+    },
+    "size": {
+      "xxs": {
+        "value": 12,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xs": {
+        "value": 16,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "md": {
+        "value": 20,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "lg": {
+        "value": 24,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xl": {
+        "value": 32,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xxl": {
+        "value": 40,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      }
+    },
+    "fontSize": {
+      "3xl": {
+        "value": 40,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "2xl": {
+        "value": 34,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "1xl": {
+        "value": 26,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xl": {
+        "value": 24,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "lg": {
+        "value": 22,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "md": {
+        "value": 20,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "sm": {
+        "value": 18,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xs": {
+        "value": 16,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "1xs": {
+        "value": 14,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "2xs": {
+        "value": 12,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      }
+    },
+    "lineHeight": {
+      "5xl": {
+        "value": 44,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "4xl": {
+        "value": 40,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "3xl": {
+        "value": 38,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "2xl": {
+        "value": 28,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "1xl": {
+        "value": 26,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xl": {
+        "value": 24,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "lg": {
+        "value": 22,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "md": {
+        "value": 20,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "sm": {
+        "value": 18,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xs": {
+        "value": 16,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "1xs": {
+        "value": 14,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "2xs": {
+        "value": 12,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Merriweather",
+        "type": "fontFamily",
+        "prefix": "apf_tokens_global"
+      },
+      "secondary": {
+        "value": "Nunito Sans",
+        "type": "fontFamily",
+        "prefix": "apf_tokens_global"
+      }
+    }
+  },
+  "red_light": {
+    "radius": {
+      "none": {
+        "value": 0,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "sm": {
+        "value": 4,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "md": {
+        "value": 8,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "lg": {
+        "value": 12,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xl": {
+        "value": 16,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xxl": {
+        "value": 20,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "full": {
+        "value": 123,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      }
+    },
+    "border": {
+      "none": {
+        "value": 0,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "sm": {
+        "value": 1,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "md": {
+        "value": 2,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "lg": {
+        "value": 3,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xl": {
+        "value": 4,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xxl": {
+        "value": 6,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      }
+    },
+    "spacing": {
+      "none": {
+        "value": 0,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "2xs": {
+        "value": 4,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "1xs": {
+        "value": 8,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xs": {
+        "value": 12,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "sm": {
+        "value": 16,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "md": {
+        "value": 24,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "lg": {
+        "value": 32,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xl": {
+        "value": 40,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "1xl": {
+        "value": 48,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "2xl": {
+        "value": 56,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "3xl": {
+        "value": 64,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      }
+    },
+    "size": {
+      "xxs": {
+        "value": 12,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xs": {
+        "value": 16,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "md": {
+        "value": 20,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "lg": {
+        "value": 24,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xl": {
+        "value": 32,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xxl": {
+        "value": 40,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      }
+    },
+    "fontSize": {
+      "3xl": {
+        "value": 40,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "2xl": {
+        "value": 34,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "1xl": {
+        "value": 26,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xl": {
+        "value": 24,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "lg": {
+        "value": 22,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "md": {
+        "value": 20,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "sm": {
+        "value": 18,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xs": {
+        "value": 16,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "1xs": {
+        "value": 14,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "2xs": {
+        "value": 12,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      }
+    },
+    "lineHeight": {
+      "5xl": {
+        "value": 44,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "4xl": {
+        "value": 40,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "3xl": {
+        "value": 38,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "2xl": {
+        "value": 28,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "1xl": {
+        "value": 26,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xl": {
+        "value": 24,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "lg": {
+        "value": 22,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "md": {
+        "value": 20,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "sm": {
+        "value": 18,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xs": {
+        "value": 16,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "1xs": {
+        "value": 14,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "2xs": {
+        "value": 12,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Merriweather",
+        "type": "fontFamily",
+        "prefix": "apf_tokens_global"
+      },
+      "secondary": {
+        "value": "Nunito Sans",
+        "type": "fontFamily",
+        "prefix": "apf_tokens_global"
+      }
+    }
+  },
+  "red_dark": {
+    "radius": {
+      "none": {
+        "value": 0,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "sm": {
+        "value": 4,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "md": {
+        "value": 8,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "lg": {
+        "value": 12,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xl": {
+        "value": 16,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xxl": {
+        "value": 20,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "full": {
+        "value": 123,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      }
+    },
+    "border": {
+      "none": {
+        "value": 0,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "sm": {
+        "value": 1,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "md": {
+        "value": 2,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "lg": {
+        "value": 3,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xl": {
+        "value": 4,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xxl": {
+        "value": 6,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      }
+    },
+    "spacing": {
+      "none": {
+        "value": 0,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "2xs": {
+        "value": 4,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "1xs": {
+        "value": 8,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xs": {
+        "value": 12,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "sm": {
+        "value": 16,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "md": {
+        "value": 24,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "lg": {
+        "value": 32,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xl": {
+        "value": 40,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "1xl": {
+        "value": 48,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "2xl": {
+        "value": 56,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "3xl": {
+        "value": 64,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      }
+    },
+    "size": {
+      "xxs": {
+        "value": 12,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xs": {
+        "value": 16,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "md": {
+        "value": 20,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "lg": {
+        "value": 24,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xl": {
+        "value": 32,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xxl": {
+        "value": 40,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      }
+    },
+    "fontSize": {
+      "3xl": {
+        "value": 40,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "2xl": {
+        "value": 34,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "1xl": {
+        "value": 26,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xl": {
+        "value": 24,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "lg": {
+        "value": 22,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "md": {
+        "value": 20,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "sm": {
+        "value": 18,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xs": {
+        "value": 16,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "1xs": {
+        "value": 14,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "2xs": {
+        "value": 12,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      }
+    },
+    "lineHeight": {
+      "5xl": {
+        "value": 44,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "4xl": {
+        "value": 40,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "3xl": {
+        "value": 38,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "2xl": {
+        "value": 28,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "1xl": {
+        "value": 26,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xl": {
+        "value": 24,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "lg": {
+        "value": 22,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "md": {
+        "value": 20,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "sm": {
+        "value": 18,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "xs": {
+        "value": 16,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "1xs": {
+        "value": 14,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      },
+      "2xs": {
+        "value": 12,
+        "type": "number",
+        "prefix": "apf_tokens_global"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Merriweather",
+        "type": "fontFamily",
+        "prefix": "apf_tokens_global"
+      },
+      "secondary": {
+        "value": "Nunito Sans",
+        "type": "fontFamily",
+        "prefix": "apf_tokens_global"
+      }
+    }
+  }
+}
