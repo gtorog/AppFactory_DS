@@ -14,31 +14,37 @@ Centralizar todas las decisiones de diseño en un sistema basado en **Design Tok
 
 ## 📁 Estructura del repositorio
 
-``/tokens
+## 🔗 Acceso directo a tokens
+
+Los tokens del sistema pueden consultarse directamente aquí:
+
+- [Ver carpeta tokens](https://github.com/gtorog/AppFactory_DS/tree/main/tokens)
+
+### Archivos principales
+
+- [Colores](https://raw.githubusercontent.com/gtorog/AppFactory_DS/main/tokens/apf_color.json)
+- [Tokens components](https://raw.githubusercontent.com/gtorog/AppFactory_DS/main/tokens/apf_tokens_components.json)
+- [Tokens Global](https://raw.githubusercontent.com/gtorog/AppFactory_DS/main/tokens/apf_tokens_global.json)
 
 La carpeta `tokens` contiene los **design tokens del sistema**, organizados para facilitar su uso tanto en diseño como en desarrollo.
 
 ---
 
-## 🧩 Sobre la carpeta `/tokens`
-
-La carpeta `/tokens` define los valores base y semánticos del sistema de diseño.
-
 ### Tipos de tokens
 
 Los tokens están estructurados en diferentes niveles:
 
-- **Primitives (base)**  
-  Valores puros sin contexto semántico.  
+- **Tokens Globales**  
+  Valores puros de radius (none, sm, md, etc), border (none, sm, md, etc), spacing (none, 2xs, 1xs, etc), size (xxs, xs, md, etc), fontSize (3xl, 2xl, etc), lineHeight (5xl, 4xl, etc) y fontFamily (Merriweather, Nunito Sans, etc). Cada uno de estos tokens están enlazados dentro de los components tokens.
   Ejemplo: colores base, tipografías, spacing.
 
-- **Semantic tokens**  
-  Tokens con significado funcional dentro del sistema.  
-  Ejemplo: `color.background.primary`, `color.text.default`.
+- **Color**  
+  Tokens con significado de color dentro del sistema.  
+  Ejemplo: `primary_default`, `primary_100`.
 
 - **Component tokens** *(si aplica)*  
   Tokens específicos de componentes concretos.  
-  Ejemplo: `button.primary.background`.
+  Ejemplo: `card.border-radius`, `checkbox.border-with`.
 
 ---
 
