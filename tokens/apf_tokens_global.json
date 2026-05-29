@@ -158,7 +158,7 @@
         "prefix": "apf_tokens_global"
       }
     },
-    "fontSize": {
+    "font-size": {
       "3xl": {
         "value": 40,
         "type": "number",
@@ -210,7 +210,7 @@
         "prefix": "apf_tokens_global"
       }
     },
-    "lineHeight": {
+    "line-height": {
       "5xl": {
         "value": 44,
         "type": "number",
@@ -272,7 +272,7 @@
         "prefix": "apf_tokens_global"
       }
     },
-    "fontFamily": {
+    "font-family": {
       "primary": {
         "value": "Merriweather",
         "type": "fontFamily",
@@ -444,7 +444,7 @@
         "prefix": "apf_tokens_global"
       }
     },
-    "fontSize": {
+    "font-size": {
       "3xl": {
         "value": 40,
         "type": "number",
@@ -496,7 +496,7 @@
         "prefix": "apf_tokens_global"
       }
     },
-    "lineHeight": {
+    "line-height": {
       "5xl": {
         "value": 44,
         "type": "number",
@@ -558,7 +558,7 @@
         "prefix": "apf_tokens_global"
       }
     },
-    "fontFamily": {
+    "font-family": {
       "primary": {
         "value": "Merriweather",
         "type": "fontFamily",
@@ -730,7 +730,7 @@
         "prefix": "apf_tokens_global"
       }
     },
-    "fontSize": {
+    "font-size": {
       "3xl": {
         "value": 40,
         "type": "number",
@@ -782,7 +782,7 @@
         "prefix": "apf_tokens_global"
       }
     },
-    "lineHeight": {
+    "line-height": {
       "5xl": {
         "value": 44,
         "type": "number",
@@ -844,7 +844,7 @@
         "prefix": "apf_tokens_global"
       }
     },
-    "fontFamily": {
+    "font-family": {
       "primary": {
         "value": "Merriweather",
         "type": "fontFamily",
@@ -1016,7 +1016,7 @@
         "prefix": "apf_tokens_global"
       }
     },
-    "fontSize": {
+    "font-size": {
       "3xl": {
         "value": 40,
         "type": "number",
@@ -1068,7 +1068,7 @@
         "prefix": "apf_tokens_global"
       }
     },
-    "lineHeight": {
+    "line-height": {
       "5xl": {
         "value": 44,
         "type": "number",
@@ -1130,7 +1130,7 @@
         "prefix": "apf_tokens_global"
       }
     },
-    "fontFamily": {
+    "font-family": {
       "primary": {
         "value": "Merriweather",
         "type": "fontFamily",

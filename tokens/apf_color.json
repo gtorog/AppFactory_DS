@@ -1,389 +1,389 @@
 {
   "blue_light": {
-    "Primary": {
-      "Primary Default": {
+    "primary": {
+      "primary-default": {
         "value": "#224d70",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 100": {
+      "primary-100": {
         "value": "#f9fafb",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 200": {
+      "primary-200": {
         "value": "#eff3f5",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 300": {
+      "primary-300": {
         "value": "#e0e6eb",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 400": {
+      "primary-400": {
         "value": "#d0dae2",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 500": {
+      "primary-500": {
         "value": "#b0c1ce",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 600": {
+      "primary-600": {
         "value": "#718fa8",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 700": {
+      "primary-700": {
         "value": "#224d70",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 800": {
+      "primary-800": {
         "value": "#1b3f5c",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 900": {
+      "primary-900": {
         "value": "#17334a",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 1000": {
+      "primary-1000": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary Default_NC": {
+      "primary-default-nc": {
         "value": "#224d70",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Secondary": {
-      "Secondary Default": {
+    "secondary": {
+      "secondary-default": {
         "value": "#ffce00",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 100": {
+      "secondary-100": {
         "value": "#fbfbf9",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 200": {
+      "secondary-200": {
         "value": "#f5f4ef",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 300": {
+      "secondary-300": {
         "value": "#ebe9e0",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 400": {
+      "secondary-400": {
         "value": "#e2ded0",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 500": {
+      "secondary-500": {
         "value": "#ffeb99",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 600": {
+      "secondary-600": {
         "value": "#ffce00",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 700": {
+      "secondary-700": {
         "value": "#ffce00",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 800": {
+      "secondary-800": {
         "value": "#e5b900",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 900": {
+      "secondary-900": {
         "value": "#cca500",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 1000": {
+      "secondary-1000": {
         "value": "#997c00",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Complementary": {
-      "Complementary Default": {
+    "complementary": {
+      "complementary-default": {
         "value": "#0d798c",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 100": {
+      "complementary-100": {
         "value": "#f4fafa",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 200": {
+      "complementary-200": {
         "value": "#edf6f7",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 300": {
+      "complementary-300": {
         "value": "#d9eef2",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 400": {
+      "complementary-400": {
         "value": "#afe0e9",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 500": {
+      "complementary-500": {
         "value": "#59bfd1",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 600": {
+      "complementary-600": {
         "value": "#0e8a9f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 700": {
+      "complementary-700": {
         "value": "#0a6675",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 800": {
+      "complementary-800": {
         "value": "#074a55",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 900": {
+      "complementary-900": {
         "value": "#043239",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 1000": {
+      "complementary-1000": {
         "value": "#02191d",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Text + Icon": {
-      "Titles": {
+    "text": {
+      "titles": {
         "value": "#224d70",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary Dark": {
+      "primary-dark": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary Dark_NC": {
+      "primary-dark-nc": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary Dark": {
+      "secondary-dark": {
         "value": "#0e202fb2",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Disable Dark": {
+      "disable-dark": {
         "value": "#18364e99",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary Light": {
+      "primary-light": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary Light_NC": {
+      "primary-light-nc": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary Light": {
+      "secondary-light": {
         "value": "#ffffffbf",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Disable Light": {
+      "disable-light": {
         "value": "#e7e9ea73",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onPrimary": {
+      "on-primary": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onSecondary": {
+      "on-secondary": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onComplementary": {
+      "on-complementary": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onA1": {
+      "on-a1": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onA2": {
+      "on-a2": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onA3": {
+      "on-a3": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onA4": {
+      "on-a4": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onA5": {
+      "on-a5": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onA6": {
+      "on-a6": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onInfo": {
+      "on-info": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onError": {
+      "on-error": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onSuccess": {
+      "on-success": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onWarning": {
+      "on-warning": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Semantic": {
-      "Information": {
+    "semantic": {
+      "information": {
         "value": "#0057ff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Information 100": {
+      "information-100": {
         "value": "#e5eeff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Information 300": {
+      "information-300": {
         "value": "#a8c6ff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Error": {
+      "error": {
         "value": "#cc1c00",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Error 100": {
+      "error-100": {
         "value": "#ffe9e5",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Error 300": {
+      "error-300": {
         "value": "#ffb6a8",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Success": {
+      "success": {
         "value": "#3bc47c",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Success 100": {
+      "success-100": {
         "value": "#ebf9f2",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Success 300": {
+      "success-300": {
         "value": "#bcebd4",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Warning": {
+      "warning": {
         "value": "#ffa154",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Warning 100": {
+      "warning-100": {
         "value": "#fff1e5",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Warning 300": {
+      "warning-300": {
         "value": "#ffd0a8",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Link": {
-      "Link Light": {
+    "link": {
+      "link-light": {
         "value": "#0e8196",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Link Alternative": {
+      "link-alternative": {
         "value": "#224d70",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Alternative": {
-      "A1": {
+    "alternative": {
+      "a1": {
         "value": "#54cf8f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "A2": {
+      "a2": {
         "value": "#f5852a",
         "type": "color",
         "prefix": "apf_color"
       },
-      "A3": {
+      "a3": {
         "value": "#0266b3",
         "type": "color",
         "prefix": "apf_color"
       },
-      "A4": {
+      "a4": {
         "value": "#42d7f8",
         "type": "color",
         "prefix": "apf_color"
       },
-      "A5": {
+      "a5": {
         "value": "#ffce00",
         "type": "color",
         "prefix": "apf_color"
@@ -394,585 +394,585 @@
         "prefix": "apf_color"
       }
     },
-    "Neutral Grey": {
-      "0": {
-        "value": "#ffffff",
+    "neutral": {
+      "grey-100": {
+        "value": "#000000",
         "type": "color",
         "prefix": "apf_color"
       },
-      "1": {
-        "value": "#fcfcfb",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "2": {
-        "value": "#f9f9f9",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "3": {
-        "value": "#f5f5f5",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "4": {
-        "value": "#f4f4f4",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "5": {
-        "value": "#f1f1f1",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "6": {
-        "value": "#e5e5e5",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "8": {
-        "value": "#c9c9c9",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "30": {
-        "value": "#ababab",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "40": {
-        "value": "#929292",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "50": {
-        "value": "#767676",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "60": {
-        "value": "#5b5b5b",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "70": {
-        "value": "#464646",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "80": {
-        "value": "#313131",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "90": {
+      "grey-90": {
         "value": "#161616",
         "type": "color",
         "prefix": "apf_color"
       },
-      "100": {
-        "value": "#000000",
+      "grey-80": {
+        "value": "#313131",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-70": {
+        "value": "#464646",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-60": {
+        "value": "#5b5b5b",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-50": {
+        "value": "#767676",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-40": {
+        "value": "#929292",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-30": {
+        "value": "#ababab",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-8": {
+        "value": "#c9c9c9",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-6": {
+        "value": "#e5e5e5",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-5": {
+        "value": "#f1f1f1",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-4": {
+        "value": "#f4f4f4",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-3": {
+        "value": "#f5f5f5",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-2": {
+        "value": "#f9f9f9",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-1": {
+        "value": "#fcfcfb",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-0": {
+        "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Transparent": {
-      "Transparent Dark 100": {
+    "transparent": {
+      "transparent-dark-100": {
         "value": "#0000000d",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Dark 200": {
+      "transparent-dark-200": {
         "value": "#0000001a",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Dark 500": {
+      "transparent-dark-500": {
         "value": "#00000033",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Dark 800": {
+      "transparent-dark-800": {
         "value": "#00000066",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Light 100": {
+      "transparent-light-100": {
         "value": "#ffffff0d",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Light 200": {
+      "transparent-light-200": {
         "value": "#ffffff1a",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Light 500": {
+      "transparent-light-500": {
         "value": "#ffffff33",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Light 800": {
+      "transparent-light-800": {
         "value": "#ffffff66",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Institutional": {
-      "Red_PR": {
+    "institutional": {
+      "red-pr": {
         "value": "#ce132e",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Yellow_PR": {
+      "yellow-pr": {
         "value": "#ffcc00",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Black_PR": {
+      "black-pr": {
         "value": "#000000",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Red_CC": {
+      "red-cc": {
         "value": "#c33400",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Blue_NG": {
+      "blue-ng": {
         "value": "#034ea2",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Yellow_NG": {
+      "yellow-ng": {
         "value": "#fff200",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Grey_NG": {
+      "grey-ng": {
         "value": "#58595b",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Blue_ED": {
+      "blue-ed": {
         "value": "#0e3062",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Orange_Clave": {
+      "orange-clave": {
         "value": "#ff5a00",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Grey_Clave": {
+      "grey-clave": {
         "value": "#575757",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Blanco": {
+      "white": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Portafirmas": {
+      "portafirmas": {
         "value": "#c32828",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Background": {
-      "Background": {
-        "value": "{Neutral Grey.0}",
+    "background": {
+      "background": {
+        "value": "{neutral.grey-0}",
         "type": "color",
         "prefix": "apf_color"
       }
     }
   },
   "blue_dark": {
-    "Primary": {
-      "Primary Default": {
+    "primary": {
+      "primary-default": {
         "value": "#8db9dd",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 100": {
+      "primary-100": {
         "value": "#102537",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 200": {
+      "primary-200": {
         "value": "#18364e",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 300": {
+      "primary-300": {
         "value": "#224d70",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 400": {
+      "primary-400": {
         "value": "#396a92",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 500": {
+      "primary-500": {
         "value": "#4b87b9",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 600": {
+      "primary-600": {
         "value": "#66a1d1",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 700": {
+      "primary-700": {
         "value": "#8db9dd",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 800": {
+      "primary-800": {
         "value": "#b1cfe7",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 900": {
+      "primary-900": {
         "value": "#d4e4f2",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 1000": {
+      "primary-1000": {
         "value": "#f5f8fa",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary Default_NC": {
+      "primary-default-nc": {
         "value": "#224d70",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Secondary": {
-      "Secondary Default": {
+    "secondary": {
+      "secondary-default": {
         "value": "#ffce00",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 100": {
+      "secondary-100": {
         "value": "#1a2229",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 200": {
+      "secondary-200": {
         "value": "#212b34",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 300": {
+      "secondary-300": {
         "value": "#2b3844",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 400": {
+      "secondary-400": {
         "value": "#364655",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 500": {
+      "secondary-500": {
         "value": "#5b4a00",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 600": {
+      "secondary-600": {
         "value": "#ab8a00",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 700": {
+      "secondary-700": {
         "value": "#ffce00",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 800": {
+      "secondary-800": {
         "value": "#ffdf5d",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 900": {
+      "secondary-900": {
         "value": "#ffeb99",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 1000": {
+      "secondary-1000": {
         "value": "#fbfbf9",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Complementary": {
-      "Complementary Default": {
+    "complementary": {
+      "complementary-default": {
         "value": "#19c5e6",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 100": {
+      "complementary-100": {
         "value": "#043239",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 200": {
+      "complementary-200": {
         "value": "#09515d",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 300": {
+      "complementary-300": {
         "value": "#0f768a",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 400": {
+      "complementary-400": {
         "value": "#149eb8",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 500": {
+      "complementary-500": {
         "value": "#7edff1",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 600": {
+      "complementary-600": {
         "value": "#a3e8f5",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 700": {
+      "complementary-700": {
         "value": "#baeef8",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 800": {
+      "complementary-800": {
         "value": "#d1f3fa",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 900": {
+      "complementary-900": {
         "value": "#e8f9fd",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 1000": {
+      "complementary-1000": {
         "value": "#f4fafa",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Text + Icon": {
-      "Titles": {
+    "text": {
+      "titles": {
         "value": "#b1cfe7",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary Dark": {
+      "primary-dark": {
         "value": "#e4eef7",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary Dark_NC": {
+      "primary-dark-nc": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary Dark": {
+      "secondary-dark": {
         "value": "#fbfdfeb2",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Disable Dark": {
+      "disable-dark": {
         "value": "#a3c7e4a0",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary Light": {
+      "primary-light": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary Light_NC": {
+      "primary-light-nc": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary Light": {
+      "secondary-light": {
         "value": "#0e202fbf",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Disable Light": {
+      "disable-light": {
         "value": "#18364e73",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onPrimary": {
+      "on-primary": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onSecondary": {
+      "on-secondary": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onComplementary": {
+      "on-complementary": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onA1": {
+      "on-a1": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onA2": {
+      "on-a2": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onA3": {
+      "on-a3": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onA4": {
+      "on-a4": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onA5": {
+      "on-a5": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onA6": {
+      "on-a6": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onInfo": {
+      "on-info": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onError": {
+      "on-error": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onSuccess": {
+      "on-success": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onWarning": {
+      "on-warning": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Semantic": {
-      "Information": {
+    "semantic": {
+      "information": {
         "value": "#6398c5",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Information 100": {
+      "information-100": {
         "value": "#16334b",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Information 300": {
+      "information-300": {
         "value": "#6097ff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Error": {
+      "error": {
         "value": "#ff6961",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Error 100": {
+      "error-100": {
         "value": "#a31a00",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Error 300": {
+      "error-300": {
         "value": "#ffd0c7",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Success": {
+      "success": {
         "value": "#3bc47c",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Success 100": {
+      "success-100": {
         "value": "#174d32",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Success 300": {
+      "success-300": {
         "value": "#247d51",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Warning": {
+      "warning": {
         "value": "#ffa154",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Warning 100": {
+      "warning-100": {
         "value": "#b25000",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Warning 300": {
+      "warning-300": {
         "value": "#fe8019",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Link": {
-      "Link Light": {
+    "link": {
+      "link-light": {
         "value": "#19c5e6",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Link Alternative": {
+      "link-alternative": {
         "value": "#8db9dd",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Alternative": {
-      "A1": {
+    "alternative": {
+      "a1": {
         "value": "#54cf8f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "A2": {
+      "a2": {
         "value": "#f5852a",
         "type": "color",
         "prefix": "apf_color"
       },
-      "A3": {
+      "a3": {
         "value": "#1c9bfc",
         "type": "color",
         "prefix": "apf_color"
       },
-      "A4": {
+      "a4": {
         "value": "#42d7f8",
         "type": "color",
         "prefix": "apf_color"
       },
-      "A5": {
+      "a5": {
         "value": "#ffce00",
         "type": "color",
         "prefix": "apf_color"
@@ -983,585 +983,585 @@
         "prefix": "apf_color"
       }
     },
-    "Neutral Grey": {
-      "0": {
-        "value": "#0e202f",
+    "neutral": {
+      "grey-100": {
+        "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "1": {
-        "value": "#161616",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "2": {
-        "value": "#191919",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "3": {
-        "value": "#1c1c1c",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "4": {
-        "value": "#1e1e1e",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "5": {
-        "value": "#222222",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "6": {
-        "value": "#262626",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "8": {
-        "value": "#333333",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "30": {
-        "value": "#4d4d4d",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "40": {
-        "value": "#666666",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "50": {
-        "value": "#949494",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "60": {
-        "value": "#9c9c9c",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "70": {
-        "value": "#b2b2b2",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "80": {
-        "value": "#cccccc",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "90": {
+      "grey-90": {
         "value": "#e9e9e2",
         "type": "color",
         "prefix": "apf_color"
       },
-      "100": {
-        "value": "#ffffff",
+      "grey-80": {
+        "value": "#cccccc",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-70": {
+        "value": "#b2b2b2",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-60": {
+        "value": "#9c9c9c",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-50": {
+        "value": "#949494",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-40": {
+        "value": "#666666",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-30": {
+        "value": "#4d4d4d",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-8": {
+        "value": "#333333",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-6": {
+        "value": "#262626",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-5": {
+        "value": "#222222",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-4": {
+        "value": "#1e1e1e",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-3": {
+        "value": "#1c1c1c",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-2": {
+        "value": "#191919",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-1": {
+        "value": "#161616",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-0": {
+        "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Transparent": {
-      "Transparent Dark 100": {
+    "transparent": {
+      "transparent-dark-100": {
         "value": "#ffffff0d",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Dark 200": {
+      "transparent-dark-200": {
         "value": "#ffffff1a",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Dark 500": {
+      "transparent-dark-500": {
         "value": "#ffffff33",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Dark 800": {
+      "transparent-dark-800": {
         "value": "#ffffff66",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Light 100": {
+      "transparent-light-100": {
         "value": "#0000000d",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Light 200": {
+      "transparent-light-200": {
         "value": "#0000001a",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Light 500": {
+      "transparent-light-500": {
         "value": "#00000033",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Light 800": {
+      "transparent-light-800": {
         "value": "#00000066",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Institutional": {
-      "Red_PR": {
+    "institutional": {
+      "red-pr": {
         "value": "#ce132e",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Yellow_PR": {
+      "yellow-pr": {
         "value": "#ffcc00",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Black_PR": {
+      "black-pr": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Red_CC": {
+      "red-cc": {
         "value": "#c33400",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Blue_NG": {
+      "blue-ng": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Yellow_NG": {
+      "yellow-ng": {
         "value": "#fff200",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Grey_NG": {
+      "grey-ng": {
         "value": "#e0e0e1",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Blue_ED": {
+      "blue-ed": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Orange_Clave": {
+      "orange-clave": {
         "value": "#ff5a00",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Grey_Clave": {
+      "grey-clave": {
         "value": "#ebebeb",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Blanco": {
+      "white": {
         "value": "#0e3062",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Portafirmas": {
+      "portafirmas": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Background": {
-      "Background": {
-        "value": "{Neutral Grey.0}",
+    "background": {
+      "background": {
+        "value": "{neutral.grey-0}",
         "type": "color",
         "prefix": "apf_color"
       }
     }
   },
   "red_light": {
-    "Primary": {
-      "Primary Default": {
+    "primary": {
+      "primary-default": {
         "value": "#224d70",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 100": {
+      "primary-100": {
         "value": "#f9fafb",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 200": {
+      "primary-200": {
         "value": "#eff3f5",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 300": {
+      "primary-300": {
         "value": "#e0e6eb",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 400": {
+      "primary-400": {
         "value": "#d0dae2",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 500": {
+      "primary-500": {
         "value": "#b0c1ce",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 600": {
+      "primary-600": {
         "value": "#718fa8",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 700": {
+      "primary-700": {
         "value": "#224d70",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 800": {
+      "primary-800": {
         "value": "#1b3f5c",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 900": {
+      "primary-900": {
         "value": "#17334a",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 1000": {
+      "primary-1000": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary Default_NC": {
+      "primary-default-nc": {
         "value": "#224d70",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Secondary": {
-      "Secondary Default": {
+    "secondary": {
+      "secondary-default": {
         "value": "#b44d3d",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 100": {
+      "secondary-100": {
         "value": "#fbf9f9",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 200": {
+      "secondary-200": {
         "value": "#f5f0ef",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 300": {
+      "secondary-300": {
         "value": "#ede5e3",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 400": {
+      "secondary-400": {
         "value": "#e2d2d0",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 500": {
+      "secondary-500": {
         "value": "#d2bab7",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 600": {
+      "secondary-600": {
         "value": "#b8938e",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 700": {
+      "secondary-700": {
         "value": "#b34d3d",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 800": {
+      "secondary-800": {
         "value": "#9c4335",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 900": {
+      "secondary-900": {
         "value": "#6e3026",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 1000": {
+      "secondary-1000": {
         "value": "#4c211a",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Complementary": {
-      "Complementary Default": {
+    "complementary": {
+      "complementary-default": {
         "value": "#a6301e",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 100": {
+      "complementary-100": {
         "value": "#fdf4f2",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 200": {
+      "complementary-200": {
         "value": "#fbece9",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 300": {
+      "complementary-300": {
         "value": "#f7d9d4",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 400": {
+      "complementary-400": {
         "value": "#f3c5be",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 500": {
+      "complementary-500": {
         "value": "#efb2a9",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 600": {
+      "complementary-600": {
         "value": "#e78c7e",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 700": {
+      "complementary-700": {
         "value": "#d73f28",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 800": {
+      "complementary-800": {
         "value": "#c23924",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 900": {
+      "complementary-900": {
         "value": "#ac3220",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 1000": {
+      "complementary-1000": {
         "value": "#812518",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Text + Icon": {
-      "Titles": {
+    "text": {
+      "titles": {
         "value": "#224d70",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary Dark": {
+      "primary-dark": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary Dark_NC": {
+      "primary-dark-nc": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary Dark": {
+      "secondary-dark": {
         "value": "#0e202fb2",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Disable Dark": {
+      "disable-dark": {
         "value": "#18364e99",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary Light": {
+      "primary-light": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary Light_NC": {
+      "primary-light-nc": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary Light": {
+      "secondary-light": {
         "value": "#ffffffbf",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Disable Light": {
+      "disable-light": {
         "value": "#e7e9ea73",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onPrimary": {
+      "on-primary": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onSecondary": {
+      "on-secondary": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onComplementary": {
+      "on-complementary": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onA1": {
+      "on-a1": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onA2": {
+      "on-a2": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onA3": {
+      "on-a3": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onA4": {
+      "on-a4": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onA5": {
+      "on-a5": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onA6": {
+      "on-a6": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onInfo": {
+      "on-info": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onError": {
+      "on-error": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onSuccess": {
+      "on-success": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onWarning": {
+      "on-warning": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Semantic": {
-      "Information": {
+    "semantic": {
+      "information": {
         "value": "#265b8f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Information 100": {
+      "information-100": {
         "value": "#ebf2fa",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Information 300": {
+      "information-300": {
         "value": "#a8c6ff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Error": {
+      "error": {
         "value": "#ab1228",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Error 100": {
+      "error-100": {
         "value": "#ffe9e5",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Error 300": {
+      "error-300": {
         "value": "#ffb6a8",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Success": {
+      "success": {
         "value": "#0c8366",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Success 100": {
+      "success-100": {
         "value": "#e8fdf8",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Success 300": {
+      "success-300": {
         "value": "#b0f8e6",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Warning": {
+      "warning": {
         "value": "#ffcc00",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Warning 100": {
+      "warning-100": {
         "value": "#fffae5",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Warning 300": {
+      "warning-300": {
         "value": "#ffeea8",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Link": {
-      "Link Light": {
+    "link": {
+      "link-light": {
         "value": "#a6301e",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Link Alternative": {
+      "link-alternative": {
         "value": "#a63df9",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Alternative": {
-      "A1": {
+    "alternative": {
+      "a1": {
         "value": "#54cf8f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "A2": {
+      "a2": {
         "value": "#f5852a",
         "type": "color",
         "prefix": "apf_color"
       },
-      "A3": {
+      "a3": {
         "value": "#0266b3",
         "type": "color",
         "prefix": "apf_color"
       },
-      "A4": {
+      "a4": {
         "value": "#42d7f8",
         "type": "color",
         "prefix": "apf_color"
       },
-      "A5": {
+      "a5": {
         "value": "#ffce00",
         "type": "color",
         "prefix": "apf_color"
@@ -1572,585 +1572,585 @@
         "prefix": "apf_color"
       }
     },
-    "Neutral Grey": {
-      "0": {
-        "value": "#ffffff",
+    "neutral": {
+      "grey-100": {
+        "value": "#000000",
         "type": "color",
         "prefix": "apf_color"
       },
-      "1": {
-        "value": "#fcfcfb",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "2": {
-        "value": "#f9f9f9",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "3": {
-        "value": "#f5f5f5",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "4": {
-        "value": "#f4f4f4",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "5": {
-        "value": "#f1f1f1",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "6": {
-        "value": "#e5e5e5",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "8": {
-        "value": "#c9c9c9",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "30": {
-        "value": "#ababab",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "40": {
-        "value": "#929292",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "50": {
-        "value": "#767676",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "60": {
-        "value": "#5b5b5b",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "70": {
-        "value": "#464646",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "80": {
-        "value": "#313131",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "90": {
+      "grey-90": {
         "value": "#161616",
         "type": "color",
         "prefix": "apf_color"
       },
-      "100": {
-        "value": "#000000",
+      "grey-80": {
+        "value": "#313131",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-70": {
+        "value": "#464646",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-60": {
+        "value": "#5b5b5b",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-50": {
+        "value": "#767676",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-40": {
+        "value": "#929292",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-30": {
+        "value": "#ababab",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-8": {
+        "value": "#c9c9c9",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-6": {
+        "value": "#e5e5e5",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-5": {
+        "value": "#f1f1f1",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-4": {
+        "value": "#f4f4f4",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-3": {
+        "value": "#f5f5f5",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-2": {
+        "value": "#f9f9f9",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-1": {
+        "value": "#fcfcfb",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-0": {
+        "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Transparent": {
-      "Transparent Dark 100": {
+    "transparent": {
+      "transparent-dark-100": {
         "value": "#0000000d",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Dark 200": {
+      "transparent-dark-200": {
         "value": "#0000001a",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Dark 500": {
+      "transparent-dark-500": {
         "value": "#00000033",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Dark 800": {
+      "transparent-dark-800": {
         "value": "#00000066",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Light 100": {
+      "transparent-light-100": {
         "value": "#ffffff0d",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Light 200": {
+      "transparent-light-200": {
         "value": "#ffffff1a",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Light 500": {
+      "transparent-light-500": {
         "value": "#ffffff33",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Light 800": {
+      "transparent-light-800": {
         "value": "#ffffff66",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Institutional": {
-      "Red_PR": {
+    "institutional": {
+      "red-pr": {
         "value": "#ce132e",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Yellow_PR": {
+      "yellow-pr": {
         "value": "#ffcc00",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Black_PR": {
+      "black-pr": {
         "value": "#000000",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Red_CC": {
+      "red-cc": {
         "value": "#c33400",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Blue_NG": {
+      "blue-ng": {
         "value": "#034ea2",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Yellow_NG": {
+      "yellow-ng": {
         "value": "#fff200",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Grey_NG": {
+      "grey-ng": {
         "value": "#58595b",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Blue_ED": {
+      "blue-ed": {
         "value": "#0e3062",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Orange_Clave": {
+      "orange-clave": {
         "value": "#ff5a00",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Grey_Clave": {
+      "grey-clave": {
         "value": "#575757",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Blanco": {
+      "white": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Portafirmas": {
+      "portafirmas": {
         "value": "#c32828",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Background": {
-      "Background": {
-        "value": "{Neutral Grey.0}",
+    "background": {
+      "background": {
+        "value": "{neutral.grey-0}",
         "type": "color",
         "prefix": "apf_color"
       }
     }
   },
   "red_dark": {
-    "Primary": {
-      "Primary Default": {
+    "primary": {
+      "primary-default": {
         "value": "#8db9dd",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 100": {
+      "primary-100": {
         "value": "#102537",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 200": {
+      "primary-200": {
         "value": "#18364e",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 300": {
+      "primary-300": {
         "value": "#224d70",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 400": {
+      "primary-400": {
         "value": "#396a92",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 500": {
+      "primary-500": {
         "value": "#4b87b9",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 600": {
+      "primary-600": {
         "value": "#66a1d1",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 700": {
+      "primary-700": {
         "value": "#8db9dd",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 800": {
+      "primary-800": {
         "value": "#b1cfe7",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 900": {
+      "primary-900": {
         "value": "#d4e4f2",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary 1000": {
+      "primary-1000": {
         "value": "#f5f8fa",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary Default_NC": {
+      "primary-default-nc": {
         "value": "#224d70",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Secondary": {
-      "Secondary Default": {
+    "secondary": {
+      "secondary-default": {
         "value": "#ce7b6e",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 100": {
+      "secondary-100": {
         "value": "#332928",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 200": {
+      "secondary-200": {
         "value": "#4c3430",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 300": {
+      "secondary-300": {
         "value": "#9c4335",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 400": {
+      "secondary-400": {
         "value": "#b34d3d",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 500": {
+      "secondary-500": {
         "value": "#ceb4b1",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 600": {
+      "secondary-600": {
         "value": "#d8c3c0",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 700": {
+      "secondary-700": {
         "value": "#e2d2d0",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 800": {
+      "secondary-800": {
         "value": "#f5f0ef",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 900": {
+      "secondary-900": {
         "value": "#f5f0ef",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary 1000": {
+      "secondary-1000": {
         "value": "#fbf9f9",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Complementary": {
-      "Complementary Default": {
+    "complementary": {
+      "complementary-default": {
         "value": "#e38879",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 100": {
+      "complementary-100": {
         "value": "#49150e",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 200": {
+      "complementary-200": {
         "value": "#742116",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 300": {
+      "complementary-300": {
         "value": "#9e2e1e",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 400": {
+      "complementary-400": {
         "value": "#d73f28",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 500": {
+      "complementary-500": {
         "value": "#e78c7e",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 600": {
+      "complementary-600": {
         "value": "#efb2a9",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 700": {
+      "complementary-700": {
         "value": "#f3c5be",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 800": {
+      "complementary-800": {
         "value": "#f7d9d4",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 900": {
+      "complementary-900": {
         "value": "#fbece9",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Complementary 1000": {
+      "complementary-1000": {
         "value": "#fdf4f2",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Text + Icon": {
-      "Titles": {
+    "text": {
+      "titles": {
         "value": "#b1cfe7",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary Dark": {
+      "primary-dark": {
         "value": "#e4eef7",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary Dark_NC": {
+      "primary-dark-nc": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary Dark": {
+      "secondary-dark": {
         "value": "#bdd7ecb2",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Disable Dark": {
+      "disable-dark": {
         "value": "#a3c7e499",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary Light": {
+      "primary-light": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Primary Light_NC": {
+      "primary-light-nc": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Secondary Light": {
+      "secondary-light": {
         "value": "#0e202fbf",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Disable Light": {
+      "disable-light": {
         "value": "#18364e73",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onPrimary": {
+      "on-primary": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onSecondary": {
+      "on-secondary": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onComplementary": {
+      "on-complementary": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onA1": {
+      "on-a1": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onA2": {
+      "on-a2": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onA3": {
+      "on-a3": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onA4": {
+      "on-a4": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onA5": {
+      "on-a5": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onA6": {
+      "on-a6": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onInfo": {
+      "on-info": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onError": {
+      "on-error": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onSuccess": {
+      "on-success": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       },
-      "onWarning": {
+      "on-warning": {
         "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Semantic": {
-      "Information": {
+    "semantic": {
+      "information": {
         "value": "#6398c5",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Information 100": {
+      "information-100": {
         "value": "#16334b",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Information 300": {
+      "information-300": {
         "value": "#a8c6ff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Error": {
+      "error": {
         "value": "#ff6961",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Error 100": {
+      "error-100": {
         "value": "#a31a00",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Error 300": {
+      "error-300": {
         "value": "#ffb6a8",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Success": {
+      "success": {
         "value": "#3bc47c",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Success 100": {
+      "success-100": {
         "value": "#0f3321",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Success 300": {
+      "success-300": {
         "value": "#bcebd4",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Warning": {
+      "warning": {
         "value": "#ffcc00",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Warning 100": {
+      "warning-100": {
         "value": "#423500",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Warning 300": {
+      "warning-300": {
         "value": "#ffcc00",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Link": {
-      "Link Light": {
+    "link": {
+      "link-light": {
         "value": "#e38879",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Link Alternative": {
+      "link-alternative": {
         "value": "#d4a1fc",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Alternative": {
-      "A1": {
+    "alternative": {
+      "a1": {
         "value": "#a3e5c3",
         "type": "color",
         "prefix": "apf_color"
       },
-      "A2": {
+      "a2": {
         "value": "#f9bc8a",
         "type": "color",
         "prefix": "apf_color"
       },
-      "A3": {
+      "a3": {
         "value": "#1c9bfc",
         "type": "color",
         "prefix": "apf_color"
       },
-      "A4": {
+      "a4": {
         "value": "#a6ecfc",
         "type": "color",
         "prefix": "apf_color"
       },
-      "A5": {
+      "a5": {
         "value": "#ffe266",
         "type": "color",
         "prefix": "apf_color"
@@ -2161,195 +2161,195 @@
         "prefix": "apf_color"
       }
     },
-    "Neutral Grey": {
-      "0": {
-        "value": "#0e202f",
+    "neutral": {
+      "grey-100": {
+        "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "1": {
-        "value": "#161616",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "2": {
-        "value": "#191919",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "3": {
-        "value": "#1c1c1c",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "4": {
-        "value": "#1e1e1e",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "5": {
-        "value": "#222222",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "6": {
-        "value": "#262626",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "8": {
-        "value": "#333333",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "30": {
-        "value": "#4d4d4d",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "40": {
-        "value": "#666666",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "50": {
-        "value": "#949494",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "60": {
-        "value": "#9c9c9c",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "70": {
-        "value": "#b2b2b2",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "80": {
-        "value": "#cccccc",
-        "type": "color",
-        "prefix": "apf_color"
-      },
-      "90": {
+      "grey-90": {
         "value": "#e9e9e2",
         "type": "color",
         "prefix": "apf_color"
       },
-      "100": {
-        "value": "#ffffff",
+      "grey-80": {
+        "value": "#cccccc",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-70": {
+        "value": "#b2b2b2",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-60": {
+        "value": "#9c9c9c",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-50": {
+        "value": "#949494",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-40": {
+        "value": "#666666",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-30": {
+        "value": "#4d4d4d",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-8": {
+        "value": "#333333",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-6": {
+        "value": "#262626",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-5": {
+        "value": "#222222",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-4": {
+        "value": "#1e1e1e",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-3": {
+        "value": "#1c1c1c",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-2": {
+        "value": "#191919",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-1": {
+        "value": "#161616",
+        "type": "color",
+        "prefix": "apf_color"
+      },
+      "grey-0": {
+        "value": "#0e202f",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Transparent": {
-      "Transparent Dark 100": {
+    "transparent": {
+      "transparent-dark-100": {
         "value": "#ffffff0d",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Dark 200": {
+      "transparent-dark-200": {
         "value": "#ffffff1a",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Dark 500": {
+      "transparent-dark-500": {
         "value": "#ffffff33",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Dark 800": {
+      "transparent-dark-800": {
         "value": "#ffffff66",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Light 100": {
+      "transparent-light-100": {
         "value": "#0000000d",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Light 200": {
+      "transparent-light-200": {
         "value": "#0000001a",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Light 500": {
+      "transparent-light-500": {
         "value": "#00000033",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Transparent Light 800": {
+      "transparent-light-800": {
         "value": "#00000066",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Institutional": {
-      "Red_PR": {
+    "institutional": {
+      "red-pr": {
         "value": "#ce132e",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Yellow_PR": {
+      "yellow-pr": {
         "value": "#ffcc00",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Black_PR": {
+      "black-pr": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Red_CC": {
+      "red-cc": {
         "value": "#c33400",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Blue_NG": {
+      "blue-ng": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Yellow_NG": {
+      "yellow-ng": {
         "value": "#fff200",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Grey_NG": {
+      "grey-ng": {
         "value": "#e0e0e1",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Blue_ED": {
+      "blue-ed": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Orange_Clave": {
+      "orange-clave": {
         "value": "#ff5a00",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Grey_Clave": {
+      "grey-clave": {
         "value": "#ebebeb",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Blanco": {
+      "white": {
         "value": "#0e3062",
         "type": "color",
         "prefix": "apf_color"
       },
-      "Portafirmas": {
+      "portafirmas": {
         "value": "#ffffff",
         "type": "color",
         "prefix": "apf_color"
       }
     },
-    "Background": {
-      "Background": {
-        "value": "{Neutral Grey.0}",
+    "background": {
+      "background": {
+        "value": "{neutral.grey-0}",
         "type": "color",
         "prefix": "apf_color"
       }
