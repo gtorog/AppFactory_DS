@@ -7,6 +7,7 @@ Los tokens de AppFactory están diseñados para ser consumidos automáticamente.
 - https://raw.githubusercontent.com/gtorog/AppFactory_DS/main/tokens/apf_color.json
 - https://raw.githubusercontent.com/gtorog/AppFactory_DS/main/tokens/apf_tokens_global.json
 - https://raw.githubusercontent.com/gtorog/AppFactory_DS/main/tokens/apf_tokens_components.json
+- https://raw.githubusercontent.com/gtorog/AppFactory_DS/main/tokens/apf_styles.json
 
 ### Estructura
 
@@ -28,8 +29,12 @@ Los tokens están estructurados en diferentes niveles:
   Tokens con significado de color dentro del sistema.  
   Ejemplo: `primary_default`, `primary_100`.
 
-- **Component tokens** *(si aplica)*  
+- **Component tokens**
   Tokens específicos de componentes concretos.  
+  Ejemplo: `card.border-radius`, `checkbox.border-with`.
+
+- **Text styles tokens**
+  Tokens de estilos de texto.  
   Ejemplo: `card.border-radius`, `checkbox.border-with`.
 
 ---
@@ -72,7 +77,7 @@ Los tokens deben consumirse como:
 ---
 
 
-### Ejemplo
+### Ejemplo de tokens de color
 
 ```json
 {
@@ -96,3 +101,97 @@ Los tokens deben consumirse como:
     }
   }
 }
+```
+
+
+### Ejemplo de tokens de componentes
+
+```json
+{
+  "blue_light": {
+    "components": {
+      "alert": {
+        "border-radius": {
+          "value": "{radius.xxl}",
+          "type": "number",
+          "prefix": "apf_tokens_components"
+        },
+        "border-width": {
+          "value": "{border.sm}",
+          "type": "number",
+          "prefix": "apf_tokens_components"
+        },
+        "border-color": {
+          "value": "{primary.primary-300}",
+          "type": "color",
+          "prefix": "apf_tokens_components"
+        },
+        "background": {
+          "value": "{neutral.grey-0}",
+          "type": "color",
+          "prefix": "apf_tokens_components"
+        },
+        "help": {
+          "background": {
+            "value": "{semantic.information-100}",
+            "type": "color",
+            "prefix": "apf_tokens_components"
+          }
+        }
+      }
+    }
+  }
+}
+```
+
+### Ejemplo de estilos de texto
+
+```json
+{
+  "textStyles": {
+    "Body-lg": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": 18,
+        "textCase": "ORIGINAL",
+        "fontFamily": "Nunito Sans",
+        "fontWeight": "Regular",
+        "lineHeight": {
+          "unit": "PIXELS",
+          "value": 22
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textDecoration": "NONE"
+      }
+    }
+  }
+}
+```
+
+### Estructura
+
+La estructura de los componentes está formada en capas:
+
+components
+ └── button
+     └── solid
+         └── primary
+             └── default
+                 └── background
+
+
+Para ello se separa en:
+
+- componente (button)
+- tipo (solid)
+- variante (primary)
+- estado (default, active, focus, disabled)
+- propiedad (background)
+
+Un ejemplo de cadena completa de token sería:
+
+- button.solid.primary.default.foreground-color
+- button.ghost.primary.default.background
